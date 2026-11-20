@@ -1,0 +1,1 @@
+import{l as t,c as o,j as e,r as s,P as i}from"./preventivo-CY_i2mu6.js";const{studio:r,prezzi:a,occupati:c}=t(window.__PREVENTIVO||location.hash);document.body.classList.add("lux","lux-cliente");o(document.getElementById("root")).render(e.jsx(s.StrictMode,{children:e.jsx(i,{studio:r,prezzi:a,occupati:c})}));
